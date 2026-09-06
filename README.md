@@ -51,3 +51,8 @@ get requests to curseforge
 #### persistence
 up to version 7-4 : hkcu run registry
 
+---
+
+### compile
+details at prompts.txt
+
